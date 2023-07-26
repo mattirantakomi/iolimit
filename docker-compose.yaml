@@ -2,4 +2,4 @@ version: "2.1"
 services:
   iolimit:
     build: .
-    image: "mattirantakomi/iolimit:latest"
+    image: "mattirantakomi/iolimit:20230726-5"
